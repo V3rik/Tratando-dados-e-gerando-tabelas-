@@ -1,0 +1,16 @@
+;id;gerente;email;loja;cidade;produto;valor;quantidade_vendida;total em vendas
+0;1;Guilherme;forcecell954@gmail.com;americanas;barueri;tenis;80.0;1;80.0
+1;1;Guilherme;forcecell954@gmail.com;americanas;barueri;saia;18.0;1;18.0
+2;1;Guilherme;forcecell954@gmail.com;americanas;barueri;calça jeans;75.0;1;75.0
+3;2;Paulo;paulo@gmail.com;casas bahia;guarulhos;hamburger;13.99;2;27.98
+4;2;Paulo;paulo@gmail.com;casas bahia;guarulhos;suco;3.0;2;6.0
+5;3;Alexandro;alexandro@gmail.com;ragazzo;carapicuiba;salgados;2.99;1;2.99
+6;3;Alexandro;alexandro@gmail.com;ragazzo;carapicuiba;coxinha;5.0;6;30.0
+7;4;Nicolas;Nicolas@gmail.com;riachuelo;barueri;oculos;25.0;3;75.0
+8;6;Marina;Marina@gmail.com;renner;jandira;blusa;20.0;5;100.0
+9;7;Marcio;Marcio@gmail.com;avan;osasco;jaqueta;150.0;1;150.0
+10;7;Marcio;Marcio@gmail.com;avan;osasco;prancha de surf;199.99;2;399.98
+11;8;Maria;Maria@gmail.com;big;itapevi;calça moletom;100.0;2;200.0
+12;9;Cleverson;Cleverson@gmail.com;mcdonals;guarulhos;boné;47.0;2;94.0
+13;9;Cleverson;Cleverson@gmail.com;mcdonals;guarulhos;meia;5.0;5;25.0
+14;9;Cleverson;Cleverson@gmail.com;mcdonals;guarulhos;cinto ;13.0;2;26.0
